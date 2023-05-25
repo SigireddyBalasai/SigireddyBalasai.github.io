@@ -211,7 +211,7 @@ const certifications = {
   certifications: [
     {
       title: "Machine",
-      subtitle: "- Andrew Ng",
+      subtitle: "",
       logo_path: "stanford_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
