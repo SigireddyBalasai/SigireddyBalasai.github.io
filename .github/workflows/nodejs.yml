@@ -30,7 +30,7 @@ jobs:
         run: |
           npm ci
           npm run build
-          npm deploy
+          npm run deploy
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
