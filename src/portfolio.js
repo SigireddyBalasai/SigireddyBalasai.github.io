@@ -210,7 +210,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
+      title: "Machine",
       subtitle: "- Andrew Ng",
       logo_path: "stanford_logo.png",
       certificate_link:
