@@ -1,34 +1,20 @@
-
-name: Node.js CI
+name: gh pages publish
 
 on:
   push:
-    branches:  
-    - master
-    - releases/*
-  pull_request:
-    branches:
-    - master
-    - releases/*
+    branches: master
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [10.x, 12.x]
-
-    steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm ci
-    - run:  git config --global user.email "SigireddyBalasai@gmail.com"
-    - run : git config --global user.name "SigireddyBalasai"
-    - run: npm run deploy
-      env:
-        CI: true
+steps:
+  - uses: actions/checkout@v2
+  - uses: actions/setup-node@v1
+    with:
+      node-version: 12
+      registry-url: https://registry.npmjs.org/
+  - name: publish package
+    run: |
+      yarn
+      npm run deploy
