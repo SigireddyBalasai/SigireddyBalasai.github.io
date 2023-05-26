@@ -228,13 +228,13 @@ const certifications = {
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "Programming Essentials in Python",
+      subtitle: "-Cisco",
+      logo_path: "Cisco.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
+        "https://drive.google.com/file/d/1TLYMov034ec-XEplW3Gj1iWF0XR5rnBr/view?usp=sharing",
+      alt_name: "Programming Essentials in Python",
+      color_code: "#00000099",
     },
     {
       title: "IOT Fundamentals",
