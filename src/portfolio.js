@@ -219,12 +219,12 @@ const certifications = {
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Cyber Security Essentials",
+      subtitle: "-Cisco",
+      logo_path: "Cisco.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
+        "https://drive.google.com/file/d/12NfOZD9-EmzqGAQhST3B4YRDB1VgSnTk/view?usp=sharing",
+      alt_name: "Cisco CyberSecurity Essentials",
       color_code: "#00000099",
     },
     {
