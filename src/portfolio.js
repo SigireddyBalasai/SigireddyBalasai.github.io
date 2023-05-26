@@ -228,6 +228,15 @@ const certifications = {
       color_code: "#00000099",
     },
     {
+      title: "Introduction to Cyber Security",
+      subtitle: "-Cisco",
+      logo_path: "Cisco.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1QsoMjirKdCZEfXXuD7WbVEUILproT2iz/view?usp=sharing",
+      alt_name: "Introduction to Cyber Security",
+      color_code: "#00000099",
+    },
+    {
       title: "Programming Essentials in Python",
       subtitle: "-Cisco",
       logo_path: "Cisco.png",
