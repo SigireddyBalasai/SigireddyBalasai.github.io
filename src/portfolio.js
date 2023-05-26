@@ -194,7 +194,7 @@ const degrees = {
     {
       title: "Velagapudi RamaKrishna Siddartha Engineering College Vijayawada",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "vrsec_logo.jpg",
+      logo_path: "vrsec_logo.png",
       alt_name: "VRSEC",
       duration: "2021 - 2025",
       descriptions: [
