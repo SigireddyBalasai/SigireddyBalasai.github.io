@@ -210,12 +210,12 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine",
+      title: "AI For Everyone",
       subtitle: "",
-      logo_path: "stanford_logo.png",
+      logo_path: "AI_For_Everyone.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
+        "https://coursera.org/share/05a6fc5398e891fbe30abdb8f7878ebe",
+      alt_name: "AI For EveryOne",
       color_code: "#8C151599",
     },
     {
