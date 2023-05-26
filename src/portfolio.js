@@ -237,6 +237,15 @@ const certifications = {
       color_code: "#00000099",
     },
     {
+      title: "Programming Essentials in C",
+      subtitle: "-Cisco",
+      logo_path: "Cisco.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1_3E4AR4npA1x1VRdn88A93ykoh0VXhNN/view?usp=sharing",
+      alt_name: "Programming Essentials in C",
+      color_code: "#00000099",
+    },
+    {
       title: "IOT Fundamentals",
       subtitle: "-Cisco IOT",
       logo_path: "Cisco.png",
