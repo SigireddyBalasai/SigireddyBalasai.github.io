@@ -255,6 +255,15 @@ const certifications = {
       color_code: "#00000099",
     },
     {
+      title: "Introduction to IOT",
+      subtitle: "-Cisco IOT",
+      logo_path: "Cisco.png",
+      certificate_link:
+        "https://drive.google.com/file/d/107YgnFK06Pl2ZI8-PLnys_eGZHRsuFON/view?usp=sharing",
+      alt_name: "Introduction to IOT",
+      color_code: "#00000099",
+    },
+    {
       title: "Data Science",
       subtitle: "- Alex Aklson",
       logo_path: "ibm_logo.png",
